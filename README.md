@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0001-two-sum) |
+| [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0275-h-index-ii) |
 ## Hash Table
 |  |
@@ -24,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
