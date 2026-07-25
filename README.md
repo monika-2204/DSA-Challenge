@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0007-reverse-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0275-h-index-ii) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
