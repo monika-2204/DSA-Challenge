@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0007-reverse-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0001-two-sum) |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0275-h-index-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
