@@ -8,6 +8,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int slow = i;
             int fast = i;
+            if(nums[i]==0) continue;
             boolean forward = nums[i]>0;
 
             while(true){
