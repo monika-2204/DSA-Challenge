@@ -8,7 +8,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 *   **Production Standards**: Write clean, readable, and well-documented code.
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+## 📊 Progress Tracker
 ## Math
 |  |
 | ------- |
