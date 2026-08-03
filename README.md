@@ -1,5 +1,11 @@
-# DSA-Challenge
-A collection of LeetCode questions to ace the coding interview!
+# 🚀 100-Day DSA Challenge
+
+A structured repository tracking my daily journey through Data Structures and Algorithms (DSA). This challenge focuses on mastering problem-solving patterns, optimizing code performance, and building daily engineering discipline.
+
+## 📌 Core Objectives
+*   **Pattern Recognition**: Master major algorithmic patterns (e.g., Sliding Window, Two Pointers, Top K Elements).
+*   **Efficiency First**: Prioritize optimal Time & Space complexity over brute-force solutions.
+*   **Production Standards**: Write clean, readable, and well-documented code.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
