@@ -24,6 +24,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
@@ -61,6 +62,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -77,6 +79,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 ## Heap (Priority Queue)
