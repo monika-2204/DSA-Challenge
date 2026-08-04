@@ -8,7 +8,10 @@ A structured repository tracking my daily journey through Data Structures and Al
 *   **Production Standards**: Write clean, readable, and well-documented code.
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## 📊 Progress Tracker
+|  |
+| ------- |
 ## Math
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 ## Binary Search
 |  |
@@ -79,6 +83,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0709-to-lower-case](https://github.com/monika-2204/DSA-Challenge/tree/master/0709-to-lower-case) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -115,4 +120,8 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
