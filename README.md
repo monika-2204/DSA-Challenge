@@ -25,6 +25,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +69,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
@@ -90,6 +92,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
