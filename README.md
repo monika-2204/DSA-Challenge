@@ -52,6 +52,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [3731-find-missing-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -87,6 +89,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -103,6 +106,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -111,6 +115,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/monika-2204/DSA-Challenge/tree/master/0709-to-lower-case) |
+| [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -120,6 +125,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
