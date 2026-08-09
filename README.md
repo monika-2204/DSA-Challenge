@@ -146,6 +146,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/monika-2204/DSA-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -155,6 +156,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/monika-2204/DSA-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 ## Sliding Window
 |  |
