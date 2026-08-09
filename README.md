@@ -112,6 +112,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monika-2204/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/monika-2204/DSA-Challenge/tree/master/0709-to-lower-case) |
@@ -149,6 +150,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -177,4 +179,8 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
