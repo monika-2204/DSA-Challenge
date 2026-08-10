@@ -3,7 +3,7 @@ class Solution {
         int i=0;
         int j=0;
         int k =0;
-        while(j<nums.length ){
+        while(j<nums.length){
             if(nums[j]==val){
                 j++;
                 continue;
