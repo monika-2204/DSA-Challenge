@@ -28,6 +28,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/monika-2204/DSA-Challenge/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -99,6 +100,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/monika-2204/DSA-Challenge/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 ## Heap (Priority Queue)
