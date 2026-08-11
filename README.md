@@ -41,6 +41,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/monika-2204/DSA-Challenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -111,6 +112,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
