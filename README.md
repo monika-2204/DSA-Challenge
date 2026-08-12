@@ -1,4 +1,4 @@
-# 🚀 100-Day DSA Challenge
+# 🚀 100-Day DSA Practice Challenge
 
 A structured repository tracking my daily journey through Data Structures and Algorithms (DSA). This challenge focuses on mastering problem-solving patterns, optimizing code performance, and building daily engineering discipline.
 
