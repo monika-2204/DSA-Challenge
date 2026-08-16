@@ -43,6 +43,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -78,6 +79,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0275-h-index-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -94,6 +96,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
@@ -122,6 +125,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
+| [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
@@ -196,6 +201,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monika-2204/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monika-2204/DSA-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quickselect
