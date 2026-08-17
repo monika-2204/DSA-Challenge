@@ -32,6 +32,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/monika-2204/DSA-Challenge/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/monika-2204/DSA-Challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -74,6 +75,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/monika-2204/DSA-Challenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0275-h-index-ii) |
