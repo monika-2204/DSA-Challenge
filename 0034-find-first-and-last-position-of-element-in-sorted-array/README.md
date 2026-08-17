@@ -11,7 +11,10 @@
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> nums = [5,7,7,8,8,10], target = 6
 <strong>Output:</strong> [-1,-1]
-
+</pre><p><strong class="example">Example 3:</strong></p>
+<pre><strong>Input:</strong> nums = [], target = 0
+<strong>Output:</strong> [-1,-1]
+</pre>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
