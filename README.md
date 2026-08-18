@@ -49,6 +49,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
@@ -84,6 +85,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/monika-2204/DSA-Challenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
@@ -102,6 +104,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -140,6 +143,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -174,6 +178,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
