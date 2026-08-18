@@ -1,32 +1,33 @@
 class Solution {
-    private int smallelements(int [][]matrix,int n,int guess){
-        int count = 0;
-        int row = n-1;
-        int col = 0;
-        while(row>=0 && col<n){
-            if(matrix[row][col]>guess){
-                row--;
-            }else{
-                count = row + 1 + count;
-                col++;
-            }
+    class pair{
+        int value ;
+        int row;
+        int col;
+        pair(int c,int n,int col){
+            this.value = c;
+            this.row = n;
+            this.col = col;
         }
-        return count;
     }
     public int kthSmallest(int[][] matrix, int k) {
-        int low = matrix[0][0];
+        PriorityQueue<pair> pq = new PriorityQueue<>((a,b)->{
+            return a.value-b.value;
+        });
         int n = matrix.length;
-        int high = matrix[n-1][n-1];
-        int res = -1;
-        while(low<=high){
-            int guess = (low+ high)/2;
-            if(smallelements(matrix,n,guess)<k){
-                low = guess + 1;
-            }else{
-                res = guess;
-                high = guess - 1;
+        for(int i=0;i<matrix.length;i++){
+            pq.add(new pair(matrix[i][0],i,0));
+        }
+        for(int i=0;i<k;i++){
+            pair curr = pq.poll();
+            int row = curr.row;
+            int col = curr.col;
+            if(col+1<n){
+                pq.add(new pair(matrix[row][col+1],row,col+1));
+            }
+            if(i==k-1){
+                return curr.value;
             }
         }
-        return res;
+        return -1;
     }
 }
