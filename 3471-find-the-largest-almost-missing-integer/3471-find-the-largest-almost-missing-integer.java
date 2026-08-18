@@ -1,7 +1,7 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
         int n = nums.length;
-        int[] count = new int[51]; // since nums[i] ≤ 50
+        int[] count = new int[51]; 
         for (int num : nums) count[num]++;
 
         if (k == n) return Arrays.stream(nums).max().getAsInt();
