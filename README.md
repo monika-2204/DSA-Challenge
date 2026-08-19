@@ -136,6 +136,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/monika-2204/DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -184,6 +185,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/monika-2204/DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
@@ -191,6 +193,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/monika-2204/DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/monika-2204/DSA-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/monika-2204/DSA-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
@@ -280,4 +283,12 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/monika-2204/DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/monika-2204/DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
