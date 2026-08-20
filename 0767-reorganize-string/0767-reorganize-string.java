@@ -24,6 +24,7 @@ class Solution {
 
         while (!pq.isEmpty()) {
             pair curr = pq.poll();
+
             if (seat > 0 && res.charAt(seat - 1) == curr.letter) {
                 if (pq.isEmpty()) return ""; 
                 pair next = pq.poll();
