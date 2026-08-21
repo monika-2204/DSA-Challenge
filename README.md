@@ -43,6 +43,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
@@ -68,6 +69,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
+| [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -102,6 +104,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
@@ -118,6 +121,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
@@ -142,6 +146,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
@@ -170,6 +175,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
