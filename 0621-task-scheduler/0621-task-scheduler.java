@@ -1,39 +1,41 @@
 class Solution {
-    class pair {
+    class Pair {
         int freq;
         char task;
-        pair(int f, char t) {
+        Pair(int f, char t) {
             this.freq = f;
             this.task = t;
         }
     }
 
     public int leastInterval(char[] tasks, int n) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] freqArr = new int[26];
         for (char c : tasks) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+            freqArr[c - 'A']++;
         }
 
-        PriorityQueue<pair> pq = new PriorityQueue<>((a, b) -> b.freq - a.freq);
-        for (char ch : map.keySet()) {
-            pq.add(new pair(map.get(ch), ch));
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> b.freq - a.freq);
+        for (int i = 0; i < 26; i++) {
+            if (freqArr[i] > 0) {
+                pq.add(new Pair(freqArr[i], (char) ('A' + i)));
+            }
         }
 
         int time = 0;
-        int[] free = new int[26]; 
+        int[] free = new int[26];
 
         while (!pq.isEmpty()) {
-            ArrayList<pair> pulled = new ArrayList<>();
+            ArrayList<Pair> pulled = new ArrayList<>();
             boolean executed = false;
 
             while (!pq.isEmpty()) {
-                pair p = pq.poll();
+                Pair p = pq.poll();
                 int freq = p.freq;
                 char task = p.task;
 
                 if (free[task - 'A'] <= time) {
                     if (freq > 1) {
-                        pulled.add(new pair(freq - 1, task));
+                        pulled.add(new Pair(freq - 1, task));
                     }
                     free[task - 'A'] = time + n + 1;
                     executed = true;
@@ -43,7 +45,7 @@ class Solution {
                 }
             }
 
-            for (pair p : pulled) {
+            for (Pair p : pulled) {
                 pq.add(p);
             }
 
