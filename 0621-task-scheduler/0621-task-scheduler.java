@@ -20,7 +20,7 @@ class Solution {
         }
 
         int time = 0;
-        int[] free = new int[26]; // cooldown tracker
+        int[] free = new int[26]; 
 
         while (!pq.isEmpty()) {
             ArrayList<pair> pulled = new ArrayList<>();
@@ -32,7 +32,6 @@ class Solution {
                 char task = p.task;
 
                 if (free[task - 'A'] <= time) {
-                    // execute task
                     if (freq > 1) {
                         pulled.add(new pair(freq - 1, task));
                     }
@@ -50,7 +49,6 @@ class Solution {
 
             time++;
             if (!executed && !pq.isEmpty()) {
-                // idle time
                 continue;
             }
         }
