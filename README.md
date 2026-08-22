@@ -22,6 +22,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monika-2204/DSA-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
