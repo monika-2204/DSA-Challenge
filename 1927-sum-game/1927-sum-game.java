@@ -20,7 +20,8 @@ class Solution {
             }else
             rightsum += num.charAt(i) - '0';
         }
-        if((rightcount+leftcount) % 2 != 0){
+
+        if((rightcount+leftcount) % 2 == 1){
             return true;
         }
         int diff = leftsum-rightsum;
