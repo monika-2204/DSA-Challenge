@@ -48,6 +48,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
@@ -151,6 +152,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -171,6 +173,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
