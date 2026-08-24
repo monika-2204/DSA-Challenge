@@ -1,31 +1,22 @@
 class Solution {
-    class pair{
-        int capital;
-        int profit;
-        pair(int c,int p){
-            this.capital = c;
-            this.profit = p;
-        }
-    }
     public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {
-        int n = profits.length;
-        ArrayList<pair> projects = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            projects.add(new pair(capital[i],profits[i]));
-        }
-        Collections.sort(projects,(a,b)-> a.capital-b.capital);
-        int i = 0;
+        int project[][] = new int[profits.length][2];
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        for(int i=0;i<profits.length;i++){
+            project[i][0] = capital[i];
+            project[i][1] = profits[i];
+        }
+        Arrays.sort(project,(a,b)-> Integer.compare(a[0],b[0]));
+        int i =0;
         while(k-->0){
-            while(i<n && projects.get(i).capital <= w){
-                pq.add(projects.get(i).profit);
+            while(i<capital.length && project[i][0]<=w){
+                pq.add(project[i][1]);
                 i++;
             }
             if(pq.isEmpty()){
                 break;
             }
-            w += pq.peek();
-            pq.poll();
+            w+=pq.poll();
         }
         return w;
     }
