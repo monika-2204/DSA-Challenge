@@ -16,6 +16,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0007-reverse-integer) |
+| [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
@@ -180,6 +181,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Greedy
 |  |
@@ -229,6 +231,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0024-swap-nodes-in-pairs](https://github.com/monika-2204/DSA-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/monika-2204/DSA-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
+| [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -317,4 +320,8 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
