@@ -83,6 +83,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monika-2204/DSA-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/monika-2204/DSA-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -134,6 +135,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monika-2204/DSA-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,6 +256,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bucket Sort
 |  |
 | ------- |
