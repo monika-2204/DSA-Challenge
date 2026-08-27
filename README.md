@@ -171,6 +171,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monika-2204/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
@@ -184,6 +185,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -270,6 +272,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
 ## Geometry
 |  |
 | ------- |
@@ -331,4 +334,8 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
