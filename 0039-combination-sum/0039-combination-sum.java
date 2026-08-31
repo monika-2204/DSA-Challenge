@@ -11,8 +11,10 @@ class Solution {
 
         if (sum + arr[idx] <= target) {
             diary.add(arr[idx]);
-            fun(arr, n, target, diary, sum + arr[idx], res, idx); 
+            sum+=arr[idx];
+            fun(arr, n, target, diary, sum, res, idx); 
             diary.remove(diary.size() - 1); 
+            sum-=arr[idx];
         }
     }
 
