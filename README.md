@@ -77,6 +77,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0003-longest-substring-without-repeating-characters](https://github.com/monika-2204/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
@@ -112,6 +113,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -179,6 +181,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/monika-2204/DSA-Challenge/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
