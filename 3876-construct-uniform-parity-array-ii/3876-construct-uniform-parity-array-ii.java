@@ -7,7 +7,7 @@ class Solution {
         }
         for(int num:nums1){
             if(num%2==0 && min!=Integer.MAX_VALUE){
-                if(num<min){
+                if(num-min<0){
                     return false;
                 }
             }
