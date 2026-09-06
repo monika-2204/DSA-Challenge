@@ -253,6 +253,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -362,4 +363,16 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0039-combination-sum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
