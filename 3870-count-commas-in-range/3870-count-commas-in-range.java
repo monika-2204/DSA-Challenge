@@ -2,7 +2,7 @@ class Solution {
     public int countCommas(int n) {
         if(n<1000){
             return 0;
-        }
-        return n+1-1000;
+        }else
+        return n-999;
     }
 }
