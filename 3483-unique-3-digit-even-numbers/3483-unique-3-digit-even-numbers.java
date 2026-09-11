@@ -2,24 +2,17 @@ import java.util.*;
 
 class Solution {
     public int totalNumbers(int[] digits) {
-        int[] count = new int[10];
-        for (int d : digits) count[d]++;
         Set<Integer> set = new HashSet<>();
-
-        for (int num = 100; num <= 999; num += 2) {
-            int[] temp = Arrays.copyOf(count, 10);
-            int x = num;
-            boolean valid = true;
-            for (int i = 0; i < 3; i++) {
-                int d = x % 10;
-                if (temp[d] == 0) {
-                    valid = false;
-                    break;
+        int n = digits.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                for (int k = 0; k < n; k++) {
+                    if (i == j || j == k || i == k) continue;
+                    int a = digits[i], b = digits[j], c = digits[k];
+                    if (a == 0 || c % 2 != 0) continue;
+                    set.add(a * 100 + b * 10 + c);
                 }
-                temp[d]--;
-                x /= 10;
             }
-            if (valid) set.add(num);
         }
         return set.size();
     }
