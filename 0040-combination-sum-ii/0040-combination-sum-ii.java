@@ -7,17 +7,19 @@ class Solution {
         if(sum>target || idx==n){
             return;
         }
-            diary.add(candidates[idx]);
-            sum+=candidates[idx];
-            fun(candidates,target,n,idx+1,sum,diary,ans);
+        for(int i=idx;i<candidates.length;i++){
+            if(i>idx && candidates[i] == candidates[i-1]){
+                continue;
+            }
+            if(sum+candidates[i]>target){
+                break;
+            }
+            diary.add(candidates[i]);
+            sum = sum+candidates[i];
+            fun(candidates,target,n,i+1,sum,diary,ans);
             diary.remove(diary.size()-1);
-            sum-=candidates[idx];
-            
-        int next = idx+1;
-        while(next<n && candidates[idx]==candidates[next]){
-            next++;
+            sum-= candidates[i];
         }
-        fun(candidates,target,n,next,sum,diary,ans);
     }
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         Arrays.sort(candidates);
