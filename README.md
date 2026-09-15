@@ -44,6 +44,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0035-search-insert-position](https://github.com/monika-2204/DSA-Challenge/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/monika-2204/DSA-Challenge/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/monika-2204/DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -375,6 +376,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/monika-2204/DSA-Challenge/tree/master/0046-permutations) |
 ## Tree
 |  |
 | ------- |
