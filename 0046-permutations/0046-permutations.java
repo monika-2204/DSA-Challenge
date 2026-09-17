@@ -1,27 +1,26 @@
 class Solution {
-    void fun(int []nums,int n,List<List<Integer>> ans,int idx){
-        if(idx==n){
-            List<Integer> diary = new ArrayList<>();
-            for(int num:nums) diary.add(num);
-            ans.add(diary);
+    void fun(int[] nums, int n,List<List<Integer>> ans,List<Integer> diary,boolean []used){
+        if(diary.size()==n){
+            ans.add(new ArrayList<>(diary));
             return;
         }
-        for(int i=idx;i<n;i++){
-            swap(nums,idx,i);
-            fun(nums,n,ans,idx+1);
-            swap(nums,idx,i);
+        for(int i=0;i<n;i++){
+            if(used[i]== true){
+                continue;
+            }
+            diary.add(nums[i]);
+            used[i] = true;
+            fun(nums,n,ans,diary,used);
+            diary.remove(diary.size()-1);
+            used[i] = false;
         }
-
-    }
-    void swap(int []nums,int i,int j){
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> diary = new ArrayList<>();
         int n = nums.length;
-        fun(nums,n,ans,0);
+        boolean []used = new boolean[n];
+        fun(nums,n,ans,diary,used);
         return ans;
     }
 }
