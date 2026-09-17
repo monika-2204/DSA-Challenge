@@ -48,6 +48,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0047-permutations-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/monika-2204/DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
@@ -337,6 +338,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/monika-2204/DSA-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
@@ -380,6 +382,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0040-combination-sum-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/monika-2204/DSA-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
