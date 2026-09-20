@@ -327,6 +327,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0145-binary-tree-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0145-binary-tree-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -427,6 +430,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0145-binary-tree-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -444,4 +448,8 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
