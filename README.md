@@ -101,6 +101,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monika-2204/DSA-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -411,6 +412,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -451,16 +455,19 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Hash Function
 |  |
 | ------- |
@@ -471,4 +478,8 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
