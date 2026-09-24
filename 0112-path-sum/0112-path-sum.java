@@ -14,16 +14,22 @@
  * }
  */
 class Solution {
-    
-    boolean fun(TreeNode root,int targetSum,int sum){
-        if(root==null) return false;
+    boolean res = false;
+    void fun(TreeNode root,int targetSum,int sum){
+        if(root==null) return;
         sum += root.val;
         if(root.left == null && root.right == null){
-            return sum==targetSum;
+            if(sum==targetSum){
+                res = true;
+                return;
+            }
         }
-        return fun(root.left,targetSum,sum) || fun(root.right,targetSum,sum);
+        fun(root.left,targetSum,sum);
+        fun(root.right,targetSum,sum);
+        return ;
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return fun(root,targetSum,0);
+        fun(root,targetSum,0);
+        return res;
     }
 }
