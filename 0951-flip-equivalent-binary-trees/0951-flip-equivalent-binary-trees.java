@@ -25,17 +25,10 @@ class Solution {
             return false;
         }
         if(fun(root1.left,root2.left) && fun(root1.right,root2.right)) return true;
-
-        TreeNode temp = root1.left;
-        root1.left = root1.right;
-        root1.right = temp;
-
-        boolean b2 = fun(root1.left,root2.left) && fun(root1.right,root2.right);
         
-        temp = root1.left;
-        root1.left = root1.right;
-        root1.right = temp;
-        return b2;
+        if(fun(root1.left,root2.right) && fun(root1.right,root2.left)) return true;
+        
+        return false;
     }
     public boolean flipEquiv(TreeNode root1, TreeNode root2) {
         return fun(root1,root2);
