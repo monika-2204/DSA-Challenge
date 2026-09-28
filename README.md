@@ -423,6 +423,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
@@ -442,6 +443,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/monika-2204/DSA-Challenge/tree/master/0951-flip-equivalent-binary-trees) |
@@ -463,6 +465,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
@@ -505,5 +508,6 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
