@@ -1,27 +1,22 @@
-import java.util.*;
-
 class Solution {
-
-     private void backtrack(List<String> res, StringBuilder temp, int open, int close, int n) {
-       if(open==n && close ==n){
-        res.add(temp.toString());
-        return ;
-       }
-       if(open<n){
-        temp.append('(');
-        backtrack(res,temp,open+1,close,n);
-        temp.deleteCharAt(temp.length()-1);
-       }
-       if(close<open){
-        temp.append(')');
-        backtrack(res,temp,open,close+1,n);
-        temp.deleteCharAt(temp.length()-1);
-       }
-}
-
+    void fun(int n,StringBuilder s,int open,int close,List<String> str){
+        if(open==n && close==n){
+            str.add(s.toString());
+        }
+        if(open>close && open<=n){
+            s.append(')');
+            fun(n,s,open,close+1,str);
+            s.deleteCharAt(s.length()-1);
+        }
+        if(open<=n){
+            s.append('(');
+            fun(n,s,open+1,close,str);
+            s.deleteCharAt(s.length()-1);
+        }
+    }
     public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<>();
-        backtrack(ans, new StringBuilder(), 0, 0, n);
-        return ans;
+        List<String> str = new ArrayList<>();
+        fun(n,new StringBuilder(),0,0,str);
+        return str;
     }
 }
