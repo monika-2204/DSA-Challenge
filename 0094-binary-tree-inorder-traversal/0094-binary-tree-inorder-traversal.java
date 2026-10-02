@@ -14,10 +14,8 @@
  * }
  */
 class Solution { 
-    static void inorder(TreeNode node ,List<Integer> list){
-        if(node==null){
-            return ;
-        }
+    void inorder(TreeNode node,List<Integer> list){
+        if(node==null) return;
         inorder(node.left,list);
         list.add(node.val);
         inorder(node.right,list);
