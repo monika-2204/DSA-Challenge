@@ -16,6 +16,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/monika-2204/DSA-Challenge/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -290,6 +291,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/monika-2204/DSA-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/monika-2204/DSA-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/monika-2204/DSA-Challenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
