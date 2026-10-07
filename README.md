@@ -214,6 +214,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/monika-2204/DSA-Challenge/tree/master/0709-to-lower-case) |
@@ -422,6 +423,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0111-minimum-depth-of-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
