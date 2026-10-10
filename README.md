@@ -16,6 +16,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/monika-2204/DSA-Challenge/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -97,6 +98,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monika-2204/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -207,6 +209,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monika-2204/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0022-generate-parentheses) |
