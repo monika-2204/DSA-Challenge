@@ -80,6 +80,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/monika-2204/DSA-Challenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -331,6 +332,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
