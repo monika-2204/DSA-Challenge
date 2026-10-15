@@ -3,11 +3,15 @@ class Solution {
         int n = nums.size();
         int ans = 0;
         for(int i=0;i<n;i++){
-            HashSet<Integer> set = new HashSet<>();
+            int []freq = new int[1001];
+            int distinct = 0;
             for(int j=i;j<n;j++){
-                set.add(nums.get(j));
-                int count = set.size();
-                ans += count*count;
+                int x = nums.get(j);
+                if(freq[x]==0){
+                    distinct++;
+                }
+                freq[x]++;
+                ans += distinct*distinct;
             }
         }
         return ans;
