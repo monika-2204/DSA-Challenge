@@ -110,6 +110,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -155,6 +156,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0274-h-index](https://github.com/monika-2204/DSA-Challenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -228,6 +230,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/monika-2204/DSA-Challenge/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
@@ -396,6 +399,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/monika-2204/DSA-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
