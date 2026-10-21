@@ -78,6 +78,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monika-2204/DSA-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
@@ -170,6 +171,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
