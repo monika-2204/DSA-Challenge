@@ -196,6 +196,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/monika-2204/DSA-Challenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -305,6 +306,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/monika-2204/DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/monika-2204/DSA-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/monika-2204/DSA-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
