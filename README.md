@@ -69,6 +69,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/monika-2204/DSA-Challenge/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/monika-2204/DSA-Challenge/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/monika-2204/DSA-Challenge/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0896-monotonic-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0896-monotonic-array) |
@@ -318,6 +319,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/monika-2204/DSA-Challenge/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/monika-2204/DSA-Challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -436,6 +438,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/monika-2204/DSA-Challenge/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
