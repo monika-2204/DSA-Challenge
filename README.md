@@ -94,6 +94,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [3471-find-the-largest-almost-missing-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monika-2204/DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/monika-2204/DSA-Challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/monika-2204/DSA-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/monika-2204/DSA-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/monika-2204/DSA-Challenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -411,6 +412,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/monika-2204/DSA-Challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/monika-2204/DSA-Challenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
