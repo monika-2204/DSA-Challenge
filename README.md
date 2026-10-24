@@ -242,6 +242,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/monika-2204/DSA-Challenge/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
@@ -444,6 +445,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/monika-2204/DSA-Challenge/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/3498-reverse-degree-of-a-string) |
