@@ -28,6 +28,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/monika-2204/DSA-Challenge/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monika-2204/DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -250,6 +251,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/monika-2204/DSA-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/monika-2204/DSA-Challenge/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monika-2204/DSA-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/3498-reverse-degree-of-a-string) |
