@@ -25,6 +25,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/monika-2204/DSA-Challenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/monika-2204/DSA-Challenge/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
