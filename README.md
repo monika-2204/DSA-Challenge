@@ -54,6 +54,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0046-permutations](https://github.com/monika-2204/DSA-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/monika-2204/DSA-Challenge/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0090-subsets-ii) |
@@ -301,6 +302,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -458,6 +460,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/monika-2204/DSA-Challenge/tree/master/0682-baseball-game) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
