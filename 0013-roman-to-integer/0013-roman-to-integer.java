@@ -10,14 +10,13 @@ class Solution {
        map.put('D',500);
        map.put('M',1000);
 
-       for(int i=s.length()-1;i>=0;i--){
-        if(i > 0 && map.get(s.charAt(i))>map.get(s.charAt(i-1))){
-            count = count + map.get(s.charAt(i)) - map.get(s.charAt(i-1));
-            i--;
-        }else{
-            count += map.get(s.charAt(i));
-        }
-       }
+      for(int i=0;i<s.length();i++){
+        int curr = map.get(s.charAt(i));
+        if(i<s.length()-1 && curr < map.get(s.charAt(i+1)))
+        count-=curr;
+        else 
+        count+=curr;
+      }
        return count;
     }
 }
