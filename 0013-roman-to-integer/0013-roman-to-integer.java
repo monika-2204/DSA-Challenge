@@ -9,20 +9,14 @@ class Solution {
        map.put('C',100);
        map.put('D',500);
        map.put('M',1000);
-       int i= 1;
-       while(i<s.length()){
-        int prev = map.get(s.charAt(i-1));
-        int curr = map.get(s.charAt(i));
-        if(prev>=curr){
-            count+=prev;
-            i++;
+
+       for(int i=s.length()-1;i>=0;i--){
+        if(i > 0 && map.get(s.charAt(i))>map.get(s.charAt(i-1))){
+            count = count + map.get(s.charAt(i)) - map.get(s.charAt(i-1));
+            i--;
         }else{
-            count+=curr-prev;
-            i+=2;
+            count += map.get(s.charAt(i));
         }
-       }
-       if(i==s.length()){
-        count+=map.get(s.charAt(i-1));
        }
        return count;
     }
