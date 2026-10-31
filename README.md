@@ -55,6 +55,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0047-permutations-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/monika-2204/DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/monika-2204/DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0090-subsets-ii) |
@@ -121,6 +122,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0013-roman-to-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0073-set-matrix-zeroes](https://github.com/monika-2204/DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
@@ -304,6 +306,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/monika-2204/DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/monika-2204/DSA-Challenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
