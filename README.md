@@ -20,6 +20,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0012-integer-to-roman](https://github.com/monika-2204/DSA-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/monika-2204/DSA-Challenge/tree/master/0050-powx-n) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/monika-2204/DSA-Challenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -71,6 +72,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -177,6 +179,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
