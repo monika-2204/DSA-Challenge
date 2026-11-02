@@ -9,10 +9,10 @@ class Solution {
         else{
             mid = (nums[n/2] + nums[n/2-1])/2;
         }
-        int sum = 0;
+        long sum = 0;
         for(int i=0;i<nums.length;i++){
             sum+=Math.abs(nums[i]-mid);
         }
-        return sum;
+        return (int)sum;
     }
 }
