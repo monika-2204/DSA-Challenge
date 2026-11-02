@@ -223,6 +223,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
+| [1768-merge-strings-alternately](https://github.com/monika-2204/DSA-Challenge/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1021-remove-outermost-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/monika-2204/DSA-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1768-merge-strings-alternately](https://github.com/monika-2204/DSA-Challenge/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/monika-2204/DSA-Challenge/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
