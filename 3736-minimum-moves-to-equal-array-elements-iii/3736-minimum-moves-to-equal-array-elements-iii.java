@@ -4,10 +4,8 @@ class Solution {
         int sum = 0;
         for(int i=0;i<nums.length;i++){
             max = Math.max(nums[i],max);
+            sum += nums[i];
         }
-        for(int i=0;i<nums.length;i++){
-            sum += Math.abs(nums[i]-max);
-        }
-        return sum;
+        return nums.length * max -sum;
     }
 }
