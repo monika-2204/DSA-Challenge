@@ -26,6 +26,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/monika-2204/DSA-Challenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/monika-2204/DSA-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/monika-2204/DSA-Challenge/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
@@ -268,6 +269,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0856-score-of-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/monika-2204/DSA-Challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/monika-2204/DSA-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/monika-2204/DSA-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/monika-2204/DSA-Challenge/tree/master/1768-merge-strings-alternately) |
@@ -651,4 +653,12 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/monika-2204/DSA-Challenge/tree/master/0200-number-of-islands) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/monika-2204/DSA-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/monika-2204/DSA-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
