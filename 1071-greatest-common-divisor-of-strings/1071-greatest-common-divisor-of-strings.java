@@ -1,11 +1,12 @@
 class Solution {
     private int gcd(int l1,int l2){
-        while(l2!=0){
-            int temp = l1%l2;
-            l1 = l2;
-            l2 = temp;
+        int min = Math.min(l1,l2);
+        for(int j = min;j>0;j--){
+            if(l1 % j == 0 && l2 % j == 0){
+                return j;
+            }
         }
-        return l1;
+        return 1;
     }
     public String gcdOfStrings(String str1, String str2) {
         if(!(str1+str2).equals(str2+str1)) return "";
