@@ -90,6 +90,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monika-2204/DSA-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -165,6 +166,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/monika-2204/DSA-Challenge/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monika-2204/DSA-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monika-2204/DSA-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -192,6 +194,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monika-2204/DSA-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -226,6 +229,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/monika-2204/DSA-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/monika-2204/DSA-Challenge/tree/master/1768-merge-strings-alternately) |
 ## Heap (Priority Queue)
 |  |
