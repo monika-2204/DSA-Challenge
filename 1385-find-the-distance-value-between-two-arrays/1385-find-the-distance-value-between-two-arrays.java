@@ -1,17 +1,34 @@
+import java.util.Arrays;
+
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
+        Arrays.sort(arr2);
+
         int count = 0;
-        
-        for(int i=0;i<arr1.length;i++){
-            boolean valid = true;
-            for(int j=0;j<arr2.length;j++){
-                if(Math.abs(arr1[i]-arr2[j])<=d){
-                    valid = false;
-                    break;
-                }
+
+        for (int num : arr1) {
+            int idx = Arrays.binarySearch(arr2, num);
+
+            if (idx >= 0) {
+                continue; 
             }
-            if(valid) count++;
+
+            idx = -idx - 1; 
+            boolean valid = true;
+
+            if (idx < arr2.length && Math.abs(arr2[idx] - num) <= d) {
+                valid = false;
+            }
+
+            if (idx > 0 && Math.abs(arr2[idx - 1] - num) <= d) {
+                valid = false;
+            }
+
+            if (valid) {
+                count++;
+            }
         }
+
         return count;
     }
 }
