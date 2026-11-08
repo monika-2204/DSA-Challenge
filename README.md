@@ -89,6 +89,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0994-rotting-oranges](https://github.com/monika-2204/DSA-Challenge/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
+| [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/monika-2204/DSA-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -212,6 +213,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0767-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -327,6 +329,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/monika-2204/DSA-Challenge/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/1572-matrix-diagonal-sum) |
@@ -567,6 +570,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/monika-2204/DSA-Challenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -619,6 +623,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0958-check-completeness-of-a-binary-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/monika-2204/DSA-Challenge/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -663,6 +668,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0200-number-of-islands](https://github.com/monika-2204/DSA-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/monika-2204/DSA-Challenge/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
 ## Euclidean Algorithm
 |  |
 | ------- |
