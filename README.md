@@ -27,6 +27,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0836-rectangle-overlap](https://github.com/monika-2204/DSA-Challenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/monika-2204/DSA-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/monika-2204/DSA-Challenge/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/monika-2204/DSA-Challenge/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
@@ -89,6 +90,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0994-rotting-oranges](https://github.com/monika-2204/DSA-Challenge/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monika-2204/DSA-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/monika-2204/DSA-Challenge/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -430,6 +432,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [0836-rectangle-overlap](https://github.com/monika-2204/DSA-Challenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/monika-2204/DSA-Challenge/tree/master/0973-k-closest-points-to-origin) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/monika-2204/DSA-Challenge/tree/master/1232-check-if-it-is-a-straight-line) |
 ## K-D Tree
 |  |
 | ------- |
