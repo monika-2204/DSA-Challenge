@@ -234,6 +234,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0027-remove-element](https://github.com/monika-2204/DSA-Challenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/monika-2204/DSA-Challenge/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/monika-2204/DSA-Challenge/tree/master/0457-circular-array-loop) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monika-2204/DSA-Challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -271,6 +272,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/monika-2204/DSA-Challenge/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0344-reverse-string) |
