@@ -33,6 +33,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/monika-2204/DSA-Challenge/tree/master/2409-count-days-spent-together) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monika-2204/DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -109,6 +110,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2089-find-target-indices-after-sorting-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/monika-2204/DSA-Challenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/monika-2204/DSA-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
