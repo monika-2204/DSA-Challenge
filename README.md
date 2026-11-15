@@ -153,6 +153,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monika-2204/DSA-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/monika-2204/DSA-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/monika-2204/DSA-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -291,6 +292,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/monika-2204/DSA-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/monika-2204/DSA-Challenge/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/monika-2204/DSA-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/monika-2204/DSA-Challenge/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
