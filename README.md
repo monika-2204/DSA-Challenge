@@ -29,6 +29,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1071-greatest-common-divisor-of-strings](https://github.com/monika-2204/DSA-Challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/monika-2204/DSA-Challenge/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/monika-2204/DSA-Challenge/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
