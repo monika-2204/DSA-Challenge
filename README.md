@@ -296,6 +296,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1768-merge-strings-alternately](https://github.com/monika-2204/DSA-Challenge/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/monika-2204/DSA-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/monika-2204/DSA-Challenge/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monika-2204/DSA-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -508,6 +509,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0682-baseball-game](https://github.com/monika-2204/DSA-Challenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/monika-2204/DSA-Challenge/tree/master/0735-asteroid-collision) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
