@@ -109,6 +109,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monika-2204/DSA-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/monika-2204/DSA-Challenge/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monika-2204/DSA-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/monika-2204/DSA-Challenge/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -297,6 +298,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1768-merge-strings-alternately](https://github.com/monika-2204/DSA-Challenge/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/monika-2204/DSA-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monika-2204/DSA-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/monika-2204/DSA-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/monika-2204/DSA-Challenge/tree/master/2409-count-days-spent-together) |
