@@ -50,6 +50,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/monika-2204/DSA-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
@@ -234,6 +235,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/monika-2204/DSA-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/monika-2204/DSA-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0018-4sum) |
@@ -319,6 +321,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/monika-2204/DSA-Challenge/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/monika-2204/DSA-Challenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/monika-2204/DSA-Challenge/tree/master/0621-task-scheduler) |
