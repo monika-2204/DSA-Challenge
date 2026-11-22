@@ -107,6 +107,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/monika-2204/DSA-Challenge/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monika-2204/DSA-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/monika-2204/DSA-Challenge/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -184,6 +185,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/monika-2204/DSA-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monika-2204/DSA-Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monika-2204/DSA-Challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/monika-2204/DSA-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/monika-2204/DSA-Challenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -270,6 +272,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1046-last-stone-weight](https://github.com/monika-2204/DSA-Challenge/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/monika-2204/DSA-Challenge/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
@@ -602,6 +606,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0951-flip-equivalent-binary-trees](https://github.com/monika-2204/DSA-Challenge/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -658,6 +663,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0994-rotting-oranges](https://github.com/monika-2204/DSA-Challenge/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/monika-2204/DSA-Challenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -705,6 +711,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0547-number-of-provinces](https://github.com/monika-2204/DSA-Challenge/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/monika-2204/DSA-Challenge/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/monika-2204/DSA-Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -735,4 +742,5 @@ A structured repository tracking my daily journey through Data Structures and Al
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/monika-2204/DSA-Challenge/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
