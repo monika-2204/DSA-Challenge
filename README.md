@@ -38,6 +38,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2652-sum-multiples](https://github.com/monika-2204/DSA-Challenge/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/monika-2204/DSA-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monika-2204/DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monika-2204/DSA-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -124,6 +125,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monika-2204/DSA-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/monika-2204/DSA-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/monika-2204/DSA-Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monika-2204/DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -425,6 +427,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monika-2204/DSA-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monika-2204/DSA-Challenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/monika-2204/DSA-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quickselect
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/monika-2204/DSA-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/monika-2204/DSA-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monika-2204/DSA-Challenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bucket Sort
@@ -753,4 +757,8 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0743-network-delay-time](https://github.com/monika-2204/DSA-Challenge/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/monika-2204/DSA-Challenge/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/monika-2204/DSA-Challenge/tree/master/1631-path-with-minimum-effort) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/monika-2204/DSA-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
