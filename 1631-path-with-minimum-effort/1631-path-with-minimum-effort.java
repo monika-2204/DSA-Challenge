@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     private boolean valid(int r, int c, int n, int m) {
         return r >= 0 && c >= 0 && r < n && c < m;
