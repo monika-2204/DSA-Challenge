@@ -38,6 +38,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [2652-sum-multiples](https://github.com/monika-2204/DSA-Challenge/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/monika-2204/DSA-Challenge/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/monika-2204/DSA-Challenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/monika-2204/DSA-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/monika-2204/DSA-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -533,6 +534,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/monika-2204/DSA-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monika-2204/DSA-Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/monika-2204/DSA-Challenge/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
