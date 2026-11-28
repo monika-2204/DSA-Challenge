@@ -70,6 +70,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0073-set-matrix-zeroes](https://github.com/monika-2204/DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/monika-2204/DSA-Challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -293,6 +294,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0030-substring-with-concatenation-of-all-words](https://github.com/monika-2204/DSA-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/monika-2204/DSA-Challenge/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/monika-2204/DSA-Challenge/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/monika-2204/DSA-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
@@ -361,6 +363,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0054-spiral-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monika-2204/DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/monika-2204/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/monika-2204/DSA-Challenge/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/monika-2204/DSA-Challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/monika-2204/DSA-Challenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -554,6 +557,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0047-permutations-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/monika-2204/DSA-Challenge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/monika-2204/DSA-Challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/monika-2204/DSA-Challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/monika-2204/DSA-Challenge/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/monika-2204/DSA-Challenge/tree/master/0301-remove-invalid-parentheses) |
@@ -593,6 +597,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/monika-2204/DSA-Challenge/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0099-recover-binary-search-tree) |
