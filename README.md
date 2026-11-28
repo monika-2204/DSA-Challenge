@@ -75,6 +75,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/monika-2204/DSA-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/monika-2204/DSA-Challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/monika-2204/DSA-Challenge/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monika-2204/DSA-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -154,6 +155,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 | [0073-set-matrix-zeroes](https://github.com/monika-2204/DSA-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/monika-2204/DSA-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/monika-2204/DSA-Challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/monika-2204/DSA-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/monika-2204/DSA-Challenge/tree/master/0389-find-the-difference) |
@@ -732,6 +734,7 @@ A structured repository tracking my daily journey through Data Structures and Al
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/monika-2204/DSA-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/monika-2204/DSA-Challenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/monika-2204/DSA-Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/monika-2204/DSA-Challenge/tree/master/0547-number-of-provinces) |
